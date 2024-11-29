@@ -1,0 +1,15 @@
+gas_cars
+drones
+solar_ev
+car_matrix_distance
+car_matrix_time
+drone_matrix_distance
+drone_matric_time
+
+cars 
+clients
+
+num_depots -> Para el RangeSet
+first_client -> Para el RangeSet
+last_client -> Para el RangeSet
+num_cars -> Para el RangeSet
